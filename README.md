@@ -1,4 +1,4 @@
-<img src="https://tenor.com/view/world-of-gumball-gif-20485727" min-width="500px" max-width="500px" width="250px" align="right" alt="Computador Adryel">
+<img src="https://tenor.com/bx7q7.gif" min-width="500px" max-width="500px" width="250px" align="right" alt="Computador Adryel">
 
 ## Olá 🌎, meu nome é Adryel...
 

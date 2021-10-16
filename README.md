@@ -1,4 +1,4 @@
-<img src="https://tenor.com/bx7q7.gif" min-width="500px" max-width="500px" width="250px" align="right" alt="Computador Adryel">
+<div class="tenor-gif-embed" data-postid="20485727" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/world-of-gumball-gif-20485727">World Of Gumball Sticker</a>from <a href="https://tenor.com/search/world+of+gumball-stickers">World Of Gumball Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Olá 🌎, meu nome é Adryel...
 

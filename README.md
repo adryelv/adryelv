@@ -1,6 +1,6 @@
  <img src="https://c.tenor.com/mIYqNr6gkjEAAAAi/world-of-gumball.gif" min-width="500px" max-width="500px" width="250px" align="right" alt="Computador Adryel">
 
-## Hi 🌎, my name is Adryel...
+<h1> ## Hi 🌎, my name is Adryel... </h1>
 
 <p align="left">  
 I'm a programming beginner.
@@ -9,7 +9,7 @@ I'm a programming beginner.
 <div style="display:grid;background:#FFFFFF17;width:100%;border-radius:10px;">
 
   <div style="padding:10px 10px 10px 20px;">
-   <h2><p>🦄 Study: </p></h2>
+   <p>🦄 Study: </p>
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" />
     
@@ -20,14 +20,14 @@ I'm a programming beginner.
   </div>
 
   <div style="padding:10px 10px 10px 20px">
-   <h2><p>💼 Tools: </p></h2>
+   <p>💼 Tools: </p>
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="50" />
     
   </div>
 
   <div style="padding:10px 10px 10px 20px">
-   <h2><p>🧐 I want to learn: </p></h2>
+   <p>🧐 I want to learn: </p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="50" />
 

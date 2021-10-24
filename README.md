@@ -9,7 +9,7 @@ I'm a programming beginner.
 <div style="display:grid;background:#FFFFFF17;width:100%;border-radius:10px;">
 
   <div style="padding:10px 10px 10px 20px;">
-   <p>🦄 Study: </p>
+   <h3> <p>🦄 Study: </p> </h3>
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" />
     

@@ -1,6 +1,6 @@
  <img src="https://c.tenor.com/mIYqNr6gkjEAAAAi/world-of-gumball.gif" min-width="500px" max-width="500px" width="250px" align="right" alt="Computador Adryel">
 
-<h1> ## Hi 🌎, my name is Adryel... </h1>
+<h1> Hi 🌎, my name is Adryel... </h1>
 
 <p align="left">  
 I'm a programming beginner.

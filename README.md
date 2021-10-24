@@ -9,7 +9,7 @@ I'm a programming beginner.
 <div style="display:grid;background:#FFFFFF17;width:100%;border-radius:10px;">
 
   <div style="padding:10px 10px 10px 20px;">
-   <h3> <p>🦄 Study: </p> </h3>
+   <h3><p>🦄 Study: </p></h3>
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" />
     
@@ -20,14 +20,14 @@ I'm a programming beginner.
   </div>
 
   <div style="padding:10px 10px 10px 20px">
-   <p>💼 Tools: </p>
+   <h3><p>💼 Tools: </p></h3>
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="50" />
     
   </div>
 
   <div style="padding:10px 10px 10px 20px">
-   <p>🧐 I want to learn: </p>
+   <h3><p>🧐 I want to learn: </p></h3>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="50" />
 

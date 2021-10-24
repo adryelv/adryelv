@@ -3,7 +3,7 @@
 ## Hi 🌎, my name is Adryel...
 
 <p align="left">  
-I'm a programming apprentice.
+I'm a programming beginner.
 </p>
 
 <div style="display:grid;background:#FFFFFF17;width:100%;border-radius:10px;">

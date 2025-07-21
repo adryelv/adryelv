@@ -1,9 +1,9 @@
  <img src="https://c.tenor.com/mIYqNr6gkjEAAAAi/world-of-gumball.gif" min-width="500px" max-width="500px" width="250px" align="right" alt="Computador Adryel">
 
 <h1> Olá 🌎, meu nome é Adryel... </h1>
+</p>
 
 <p align="left">  
-Sou iniciante em programação.
 </p>
 
 <div style="display:grid;background:#FFFFFF17;width:100%;border-radius:10px;">

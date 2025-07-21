@@ -1,53 +1,45 @@
- <img src="https://c.tenor.com/mIYqNr6gkjEAAAAi/world-of-gumball.gif" min-width="500px" max-width="500px" width="250px" align="right" alt="Computador Adryel">
+<h1 align="center">Hey! Good to see you here.</h1>
+<div align="center" style="margin-bottom=100px">
+  <a>
+    <img src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="Simon" </img>
+  </a>    
+</div> 
 
-<h1> Olá 🌎, meu nome é Adryel... </h1>
-</p>
+<h2 align="center">I'm Adryel </h2>
 
-<p align="left">  
-</p>
+###Backend and Cibersecurity. 💻  
+* 👨‍💻  Currently practicing Cybersecurity and Python. 
+* 🖥️  Check out my portfolio at [<i>adryelv</i>](https://github.com/adryelv?tab=repositories) 
+* 🧑‍🏫  "There's a popular saying that a secure computer is one that's turned off. This is clever, but false: The hacker will convince someone to break into the office and turn on that computer. It's all a matter of time, patience, personality, and persistence." - [Kevin Mitnick]  
+ 
+<br/>
 
-<div style="display:grid;background:#FFFFFF17;width:100%;border-radius:10px;">
+<img align="right" alt="GIF" src="https://c.tenor.com/mIYqNr6gkjEAAAAi/world-of-gumball.gif" width="250" height="250">
 
-  <div style="padding:10px 10px 10px 20px;">
-   <h3><p>📚 Estudo: </p></h3>
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" />
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" />
+### 💻 Tools and Tech stack () => {
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" />
-  
-  </div>
-
-  <div style="padding:10px 10px 10px 20px">
-   <h3><p>🖥️ Eu vou aprender: </p></h3>
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="50" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" />
-    
-  </div>
-  
-  <div style="padding:10px 10px 10px 20px">
-   <h3><p>🔧 Ferramentas: </p></h3>
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="50" />
-  
-  <img     src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="Visual studio code" width="50"/>
-    
-  </div>
+<div style="display: flex;gap:'10px'" align="left">
+<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" width="48" height="48" alt="HTML5" /></a>
+<a href="https://www.cprogramming.com/tutorial/c-tutorial.html?inl=nv"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="48" height="48" alt="Visual Studio Code" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="PlanetScale" /></a>
+<a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="HTML5" /></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="CSS3" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="50" />
 
 </div>
-  
-</br>
 
-<p align="left">
+### }
+ 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-  <a href="https://www.linkedin.com/in/adryel-beneton-518008183/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
-</p>
-
----
+<div align="center">
+<a href="http://www.github.com/adryelv"><img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=adryelv&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Adryel GitHub stats" /></a>
+<a href="http://www.github.com/adryelv"><img height="200em" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=adryelv&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact&show_icons=true&langs_count=10" alt="Adryel GitHub stats" /></a>
+</div>
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-  

@@ -8,7 +8,7 @@
 <h2 align="center">I'm Adryel </h2>
 
 ###Backend and Cibersecurity. 💻  
-* 👨‍💻  Currently practicing Cybersecurity and Python. 
+* 👨‍💻  Currently practicing Cybersecurity and Data Science. 
 * 🖥️  Check out my portfolio at [<i>adryelv</i>](https://github.com/adryelv?tab=repositories) 
 * 🧑‍🏫  "There's a popular saying that a secure computer is one that's turned off. This is clever, but false: The hacker will convince someone to break into the office and turn on that computer. It's all a matter of time, patience, personality, and persistence." - [Kevin Mitnick]  
  

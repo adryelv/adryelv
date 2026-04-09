@@ -1,7 +1,7 @@
 <h1 align="center">🕶️ Welcome to my Cyber Lab</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0bfe00&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Ethical+Hacker+in+Progress;Web+Application+Security;Burp+Suite+%7C+Nmap+%7C+Metasploit" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0af000&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Ethical+Hacker+in+Progress;Web+Application+Security;Burp+Suite+%7C+Nmap+%7C+Metasploit" />
 </p>
 
 <p align="center">
@@ -38,7 +38,6 @@ Ethical Hacking & Cybersecurity Student
 <p> <img src="https://skillicons.dev/icons?i=python,c,js,git,mysql,postgres,vscode,linux" /> </p>
 
 ## 📂 Featured Projects
-## 🚧 Currently building and documenting my cybersecurity journey:
 - 🔎 Python Network Scanner
 - 🕵️ ARP Spoofer & Packet Sniffer
 - 🌐 Web Pentest Study Notes

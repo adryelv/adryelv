@@ -26,19 +26,13 @@ Ethical Hacking & Cybersecurity Student
 
 ## ⚡ Pentest Arsenal
 
-<p>
-  <h2>🛰️ Recon & Scanning</h2>
-  <img src="https://img.shields.io/badge/Nmap-000?style=for-the-badge&logo=gnu-bash&logoColor=00ff9c"/> <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark&logoColor=00ff9c"/> <img src="https://img.shields.io/badge/WhatWeb-000?style=for-the-badge"/>
+<p> 🛰️ Recon & Scanning <img src="https://img.shields.io/badge/Nmap-000?style=for-the-badge&logo=gnu-bash&logoColor=00ff9c"/> <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark&logoColor=00ff9c"/> <img src="https://img.shields.io/badge/WhatWeb-000?style=for-the-badge"/> </p>
 
-  <h2>🌐 Web Pentesting</h2>
-  <img src="https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge&logo=burpsuite&logoColor=orange"/> <img src="https://img.shields.io/badge/SQLMap-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Gobuster-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Nikto-000?style=for-the-badge"/>
-</p>
+<p> 🌐 Web Pentesting <img src="https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge&logo=burpsuite&logoColor=orange"/> <img src="https://img.shields.io/badge/SQLMap-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Gobuster-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Nikto-000?style=for-the-badge"/> </p>
 
-# 💣 Exploitation
-<p> <img src="https://img.shields.io/badge/Metasploit-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Hydra-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/John_The_Ripper-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Ettercap-000?style=for-the-badge"/> </p>
+<p> 💣 Exploitation <img src="https://img.shields.io/badge/Metasploit-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Hydra-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/John_The_Ripper-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Ettercap-000?style=for-the-badge"/> </p>
 
-# 🧪 Lab Environment
-<p> <img src="https://img.shields.io/badge/Kali_Linux-000?style=for-the-badge&logo=kalilinux&logoColor=00ff9c"/> <img src="https://img.shields.io/badge/Metasploitable-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/VirtualBox-000?style=for-the-badge&logo=virtualbox"/> <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/> </p>
+<p> 🧪 Lab Environment<img src="https://img.shields.io/badge/Kali_Linux-000?style=for-the-badge&logo=kalilinux&logoColor=00ff9c"/> <img src="https://img.shields.io/badge/Metasploitable-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/VirtualBox-000?style=for-the-badge&logo=virtualbox"/> <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/> </p>
 
 # 🧠 Programming & Backend
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,c,js,git,mysql,postgres,vscode,linux" /> </p>
@@ -53,13 +47,6 @@ Ethical Hacking & Cybersecurity Student
 - 🌐 Web Pentest Study Notes
 - 🧪 Personal Pentest Lab Setup Guide
 
-# 📊 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adryelv&show_icons=true&theme=chartreuse-dark&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryelv&layout=compact&theme=chartreuse-dark&hide_border=true"/> </p>
-
-# 🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"> </p>
-
-# 🌐 Connect with me
-<p align="center"> <a href="https://www.linkedin.com/in/adryel-beneton"> <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/> </a> </p>
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:000000&height=120&section=footer"/> </p> ```
+<p align="center"> 🐍 Contribution Snake <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"> </p>
+<p align="center"> 🌐 Connect with me <a href="https://www.linkedin.com/in/adryel-beneton"> <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/> </a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:000000&height=120&section=footer"/> </p>

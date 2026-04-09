@@ -30,7 +30,7 @@ Ethical Hacking & Cybersecurity Student
 
 <p> 🌐 Web Pentesting <img src="https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge&logo=burpsuite&logoColor=orange"/> <img src="https://img.shields.io/badge/SQLMap-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Gobuster-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Nikto-000?style=for-the-badge"/> </p>
 
-<p> 💣 Exploitation <img src="https://img.shields.io/badge/Metasploit-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Hydra-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/John_The_Ripper-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Ettercap-000?style=for-the-badge"/> </p>
+<p> <h3>💣 Exploitation</h3> <img src="https://img.shields.io/badge/Metasploit-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Hydra-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/John_The_Ripper-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Ettercap-000?style=for-the-badge"/> </p>
 
 <p> 🧪 Lab Environment<img src="https://img.shields.io/badge/Kali_Linux-000?style=for-the-badge&logo=kalilinux&logoColor=00ff9c"/> <img src="https://img.shields.io/badge/Metasploitable-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/VirtualBox-000?style=for-the-badge&logo=virtualbox"/> <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/> </p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">🕶️ Welcome to my Cyber Lab</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Ethical+Hacker+in+Progress;Web+Application+Security;Burp+Suite+%7C+Nmap+%7C+Metasploit" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=16ff12center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Ethical+Hacker+in+Progress;Web+Application+Security;Burp+Suite+%7C+Nmap+%7C+Metasploit" />
 </p>
 
 <p align="center">
@@ -20,6 +20,8 @@ Ethical Hacking & Cybersecurity Student
 🔐 Focused on Web Pentesting, Networking and Offensive Security
 🧠 Building my own Cybersecurity Lab
 ⚙️ Creating automation tools with Python & Bash
+```
+
 ---
 
 ## ⚡ Pentest Arsenal
@@ -49,13 +51,13 @@ Ethical Hacking & Cybersecurity Student
 - 🌐 Web Pentest Study Notes
 - 🧪 Personal Pentest Lab Setup Guide
 
-📊 GitHub Stats
+# 📊 GitHub Stats
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adryelv&show_icons=true&theme=chartreuse-dark&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryelv&layout=compact&theme=chartreuse-dark&hide_border=true"/> </p>
 
-🐍 Contribution Snake
+# 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"> </p>
 
-🌐 Connect with me
+# 🌐 Connect with me
 <p align="center"> <a href="https://www.linkedin.com/in/adryel-beneton"> <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/> </a> </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:000000&height=120&section=footer"/> </p> ```

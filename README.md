@@ -1,7 +1,7 @@
 <h1 align="center">🕶️ Welcome to my Cyber Lab</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=16ff12center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Ethical+Hacker+in+Progress;Web+Application+Security;Burp+Suite+%7C+Nmap+%7C+Metasploit" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0bfe00&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Ethical+Hacker+in+Progress;Web+Application+Security;Burp+Suite+%7C+Nmap+%7C+Metasploit" />
 </p>
 
 <p align="center">
@@ -26,11 +26,13 @@ Ethical Hacking & Cybersecurity Student
 
 ## ⚡ Pentest Arsenal
 
-# 🛰️ Recon & Scanning
-<p> <img src="https://img.shields.io/badge/Nmap-000?style=for-the-badge&logo=gnu-bash&logoColor=00ff9c"/> <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark&logoColor=00ff9c"/> <img src="https://img.shields.io/badge/WhatWeb-000?style=for-the-badge"/> </p>
+<p>
+  <h2>🛰️ Recon & Scanning</h2>
+  <img src="https://img.shields.io/badge/Nmap-000?style=for-the-badge&logo=gnu-bash&logoColor=00ff9c"/> <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark&logoColor=00ff9c"/> <img src="https://img.shields.io/badge/WhatWeb-000?style=for-the-badge"/>
 
-# 🌐 Web Pentesting
-<p> <img src="https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge&logo=burpsuite&logoColor=orange"/> <img src="https://img.shields.io/badge/SQLMap-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Gobuster-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Nikto-000?style=for-the-badge"/> </p>
+  <h2>🌐 Web Pentesting</h2>
+  <img src="https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge&logo=burpsuite&logoColor=orange"/> <img src="https://img.shields.io/badge/SQLMap-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Gobuster-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Nikto-000?style=for-the-badge"/>
+</p>
 
 # 💣 Exploitation
 <p> <img src="https://img.shields.io/badge/Metasploit-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Hydra-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/John_The_Ripper-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Ettercap-000?style=for-the-badge"/> </p>

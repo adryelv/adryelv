@@ -24,7 +24,7 @@ Ethical Hacking & Cybersecurity Student
 
 ---
 
-<h3>⚡ Pentest Arsenal</h3>
+## ⚡ Pentest Arsenal
 
 <p><img src="https://img.shields.io/badge/Nmap-000?style=for-the-badge&logo=gnu-bash&logoColor=00ff9c"/> <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark&logoColor=00ff9c"/> <img src="https://img.shields.io/badge/WhatWeb-000?style=for-the-badge"/> </p>
 
@@ -34,13 +34,11 @@ Ethical Hacking & Cybersecurity Student
 
 <p><img src="https://img.shields.io/badge/Kali_Linux-000?style=for-the-badge&logo=kalilinux&logoColor=00ff9c"/> <img src="https://img.shields.io/badge/Metasploitable-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/VirtualBox-000?style=for-the-badge&logo=virtualbox"/> <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/> </p>
 
-<p align="center"> <h3>🧠 Programming & Backend</h3> </p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,js,git,mysql,postgres,vscode,linux" /> </p>
+## 🧠 Programming & Backend
+<p> <img src="https://skillicons.dev/icons?i=python,c,js,git,mysql,postgres,vscode,linux" /> </p>
 
-💡 Automation of pentest tools, scripts and offensive security utilities.
-
-<h3> 📂 Featured Projects</h3>
-<h3> 🚧 Currently building and documenting my cybersecurity journey:</h3>
+## 📂 Featured Projects
+## 🚧 Currently building and documenting my cybersecurity journey:
 - 🔎 Python Network Scanner
 - 🕵️ ARP Spoofer & Packet Sniffer
 - 🌐 Web Pentest Study Notes
